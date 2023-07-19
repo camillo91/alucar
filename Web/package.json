@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "alucarweb",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "perfect-scrollbar": "^1.4.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jquery-ajax-unobtrusive": "^3.2.6",
+    "jquery-ui-dist": "^1.12.1",
+    "lightbox2": "2.11.1",
+    "popper.js": "^1.16.0",
+    "jquery-serializetojson": "1.4.1",
+    "print-js": "1.0.63"
+  }
+}

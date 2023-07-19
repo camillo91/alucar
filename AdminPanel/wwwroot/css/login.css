@@ -1,0 +1,18 @@
+﻿body {
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/login-bacground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.panel-login {
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.7);
+}

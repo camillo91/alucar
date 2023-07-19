@@ -1,0 +1,8 @@
+﻿.btn-dark {
+    background-color: #151515;
+    border-color: #151515;
+}
+
+.page-item.active .page-link {
+    background-color: #01549b;
+}

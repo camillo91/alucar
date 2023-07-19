@@ -1,0 +1,20 @@
+﻿.list-view__table-header th {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1020;
+}
+
+.list-view__table-top {
+    height: 50px;
+}
+
+.list-view__table-wrapper {
+    height: calc(100vh - 249px);
+    overflow-y: scroll;
+}
+
+.list-view__table-wrapper table {
+        position: relative;
+}
+
